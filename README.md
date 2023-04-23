@@ -5,7 +5,7 @@
 ---
 About me:👨‍💻
 
-Me llamo Moisés Maza, y estoy estudiando la Licenciatura en Computación, me gusta aprender sobre la creación de páginas web y bases de datos, actualmente estoy reforzando mis conocimientos de HTML, CSS y JavasCript, y después aprender más ya que quiero ser desarrollador FrontEnd.
+Me llamo Moisés Maza, y estoy estudiando la Licenciatura en Computación, me gusta aprender sobre la creación de páginas web y bases de datos, actualmente estoy reforzando mis conocimientos de HTML, CSS y JavasCript, y después aprender más, ya que quiero ser desarrollador FrontEnd.
 
 ---
 📫 Me puedes encontrar así:
